@@ -4,7 +4,7 @@ Aplikasi solusi rental mobil untuk sewa jangka panjang maupun pendek dengan harg
 
 ## 📸 Tampilan Aplikasi
 
-![Tampilan Awal](images/tampilan-1.jpg)
+![Tampilan Awal](images/tampilan2.jpg)
 
 ## 💡 Deskripsi Project
 
